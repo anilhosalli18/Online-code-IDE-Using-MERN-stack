@@ -1,0 +1,2 @@
+# Online-code-IDE-Using-MERN-stack
+Full-Stack Online Code IDE is a web-based platform that lets users write, edit, and execute code directly in the browser. Built with React and Node.js/Express, it provides real-time code execution through backend APIs. Designed for students, developers, and educators, it offers a lightweight, extensible online coding environment.
